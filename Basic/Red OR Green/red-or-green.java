@@ -23,6 +23,9 @@ class GFG {
 
 //User function template for Java
 
+
+//User function template for Java
+
 class Solution {
     static int RedOrGreen(int N, String S) {
         //code here
