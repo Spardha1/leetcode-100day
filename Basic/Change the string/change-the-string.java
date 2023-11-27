@@ -26,6 +26,11 @@ class GfG
 
 //User function Template for Java
 
+
+
+
+//User function Template for Java
+
 class Solution{
     String modify(String s){
         if (Character.isUpperCase(s.charAt(0))) 
